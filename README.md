@@ -5,6 +5,7 @@
 This application features the ability to repeatedly check if a website has updated it's contents from the last time it was parsed.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703740-869b7980-2d93-11ea-847a-74c281aa46b0.png)
 
 ## Application Compiling
 
